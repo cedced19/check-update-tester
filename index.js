@@ -1,0 +1,1 @@
+module.exports = 'Just a software for test check-update.';
