@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cedced19/check-update"
+    "url": "git://github.com/cedced19/check-update-tester"
   },
   "keywords": [
     "check",
